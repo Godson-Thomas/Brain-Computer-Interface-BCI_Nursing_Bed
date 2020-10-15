@@ -8,7 +8,7 @@
 
 
 ## ***_Block Diagram With Components_***
-<img src="https://github.com/Godson-Thomas/Brain-Computer-Interface-BCI-_Nursing_Bed/blob/master/Progress/Block.JPG" width="550">
+<img src="https://github.com/Godson-Thomas/Brain-Computer-Interface-BCI_Nursing_Bed/blob/master/Progress/Block.JPG" width="550">
 
 
 
@@ -32,19 +32,19 @@ _We are presenting an automated nursing bed in which the positions of the bed, a
 ## ***_Signal Processing_*** 
 
 ### Samples
- <img src="https://github.com/Godson-Thomas/Brain-Computer-Interface-BCI-_Nursing_Bed/blob/master/Progress/Signal_Process%20(4).JPG" width="550"><br>
+ <img src="https://github.com/Godson-Thomas/Brain-Computer-Interface-BCI_Nursing_Bed/blob/master/Progress/Signal_Process%20(4).JPG" width="550"><br>
 
 ### Intentional Eye Blink
- <img src="https://github.com/Godson-Thomas/Brain-Computer-Interface-BCI-_Nursing_Bed/blob/master/Progress/Signal_Process%20(2).JPG" width="600"><br>
+ <img src="https://github.com/Godson-Thomas/Brain-Computer-Interface-BCI_Nursing_Bed/blob/master/Progress/Signal_Process%20(2).JPG" width="600"><br>
 
 
 ### Time Domain Plot
- <img src="https://github.com/Godson-Thomas/Brain-Computer-Interface-BCI-_Nursing_Bed/blob/master/Progress/Signal_Process%20(1).jpeg" width="550"><br>
+ <img src="https://github.com/Godson-Thomas/Brain-Computer-Interface-BCI_Nursing_Bed/blob/master/Progress/Signal_Process%20(1).jpeg" width="550"><br>
 
  
 
 
 ## ***_3D Model_***
-<img src="https://github.com/Godson-Thomas/Brain-Computer-Interface-BCI-_Nursing_Bed/blob/master/Model/Prototype%20(1).png" width="550"><br>
-<img src="https://github.com/Godson-Thomas/Brain-Computer-Interface-BCI-_Nursing_Bed/blob/master/Model/Prototype%20(2).png" width="550"><br>
-<img src="https://github.com/Godson-Thomas/Brain-Computer-Interface-BCI-_Nursing_Bed/blob/master/Model/Prototype%20(3).png" width="550"><br>
+<img src="https://github.com/Godson-Thomas/Brain-Computer-Interface-BCI_Nursing_Bed/blob/master/Model/Prototype%20(1).png" width="550"><br>
+<img src="https://github.com/Godson-Thomas/Brain-Computer-Interface-BCI_Nursing_Bed/blob/master/Model/Prototype%20(2).png" width="550"><br>
+<img src="https://github.com/Godson-Thomas/Brain-Computer-Interface-BCI_Nursing_Bed/blob/master/Model/Prototype%20(3).png" width="550"><br>
